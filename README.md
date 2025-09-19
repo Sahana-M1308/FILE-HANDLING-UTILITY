@@ -27,3 +27,7 @@ Features: Write Operation: Stores initial user input in a file. Read Operation: 
 Applicability: Educational: Helps beginners understand Java I/O, exception handling, and loops. Practical: Useful for creating logs, storing user-generated data, configuration files, or small datasets in lightweight applications. Automation & Reports: Can be adapted for scripts that generate or update files automatically.
 
 Key Learning Outcomes: Understanding file creation, reading, and appending in Java. Managing exceptions for safer file operations. Using loops and conditional logic for interactive programs. Combining multiple Java I/O classes for practical file handling tasks.
+
+OUTPUT:
+
+<img width="642" height="372" alt="Image" src="https://github.com/user-attachments/assets/5933e545-38c1-4345-baa1-d7ad5f86de6a" />
