@@ -31,3 +31,5 @@ Key Learning Outcomes: Understanding file creation, reading, and appending in Ja
 OUTPUT:
 
 <img width="642" height="372" alt="Image" src="https://github.com/user-attachments/assets/5933e545-38c1-4345-baa1-d7ad5f86de6a" />
+
+<img width="796" height="266" alt="Image" src="https://github.com/user-attachments/assets/61e81bf3-1753-4aac-947e-627c914c2a69" />
